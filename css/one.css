@@ -54,7 +54,7 @@ body_3_8 a:visited {color: white;}
 	position: relative;
 }
 
-.join {
+.logen {
 	cursor: pointer;
 	border: none;
 	background-color: #a1a1a1;
@@ -64,6 +64,15 @@ body_3_8 a:visited {color: white;}
 	position: absolute;
 }
 
+.join {
+	cursor: pointer;
+	border: none;
+	background-color: #ff5842;
+	color: white;
+	right: 430px;
+	padding: 8px;
+	position: absolute;
+}
 
 .head_3 {
 	left: 359px;
@@ -242,20 +251,12 @@ body_3_8 a:visited {color: white;}
 	height: 2773px;
 }
 .body_3_1{
-	text-align: center;
+	height: 150px;
 	width: 300px;
 }
-.logen input{
-	margin: 10px;
-	padding: 5px;
-	border: 1px solid orangered;	
+.body_3_1 img{
+	cursor: pointer;
 }
-.logen_bt{
-	background: orangered;
-	color: white;
-	border: 10px;
-}
-
 .body_3_2{
 	width: 300px;
 	height: 158px;

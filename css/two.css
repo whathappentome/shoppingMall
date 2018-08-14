@@ -54,13 +54,22 @@ li {
 	position: relative;
 }
 
+.logen {
+	cursor: pointer;
+	border: none;
+	background-color: #a1a1a1;
+	color: white;
+	right: 361px;
+	padding: 8px;
+	position: absolute;
+}
 
 .join {
 	cursor: pointer;
 	border: none;
 	background-color: #ff5842;
 	color: white;
-	right: 361px;
+	right: 425px;
 	padding: 8px;
 	position: absolute;
 }
@@ -223,6 +232,7 @@ li {
 	color: white;
 }
 .joinus2{
+	left: 200px;
 	position: absolute;
 	text-align: center;
 	margin: 24px 0px;
