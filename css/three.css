@@ -1,0 +1,68 @@
+li{
+	list-style: none;
+}
+.all3 {
+	font-family: arial;
+	width: 1920px;
+	height: 3000px;
+	margin: 0 auto;
+	position: relative;
+}
+.head3_2{
+	width: 1920px;
+	height: 45px;
+	background-color: #ffffff;
+	border-bottom: 5px solid #efefef;
+	position: relative;
+}
+.body3_1{
+	width: 2100px;
+	height: 2900px;
+}
+.example{
+
+	width: 900px;
+	height: 1555px;
+}
+.example1{
+	position: relative;
+	width: 850px;
+	height: 235px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid #e6e6e6;
+}
+.example1 img{
+	float: left;
+	width: 250px;
+	height: 212px;
+}
+.text1{
+	float: left;
+}
+.text2{
+	width: 500px;
+}
+.continue{
+	text-align: center;
+	left: 260px;
+	bottom: 30px;
+	font-size: 20px;
+	position: absolute;
+	padding: 10px;
+	cursor: pointer;
+	float: left;
+	background-color: #ff5842;
+	width: 180px;
+	color: white;
+}
+.fangxiang{
+	cursor: pointer;
+	width: 850px;
+	height: 44px;
+}
+.fangxiang1{
+	float: left;
+}
+.fangxiang2{
+	float: right;
+}

@@ -1,0 +1,47 @@
+li{
+	list-style: none;
+}
+.bodysix {
+    padding: 10px 0px 10px 10px;
+    font-size: 12px;
+   
+}
+.bodysix time {
+	color: #ff7666;
+}
+
+.bodysix label {
+	color: #ff7666;
+}
+.bodysix1 {
+    border: 1px solid #f8f8f8;
+    width: 880px;
+    margin-bottom: 20px;
+}
+.download{
+	cursor: pointer;
+	padding-left: calc((100% - 260px)/2);
+	width: 880px;
+	text-align: center;
+}
+.download p{
+	
+	width: 200px;
+	padding: 20px;
+	background-color: #ff5842;
+	color: white;
+}
+.bodyseven{
+	margin-right:15px ;
+	float: left;
+	border: 1px solid #f8f8f8;
+    width: 420px;
+    margin-bottom: 20px;
+}
+.bodyseven1{
+	width: 420px;
+    height: 400px;
+}
+.seven{
+	width: 880px;
+}
