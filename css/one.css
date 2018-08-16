@@ -215,7 +215,7 @@ body_3_8 a:visited {color: white;}
 .body_1 {
 	width: 70%;
 	margin: 0 auto;
-	height: 3172px;
+	/* height: 3172px; */
 }
 
 .body_1_1 {
@@ -272,13 +272,13 @@ body_3_8 a:visited {color: white;}
 .body_2 {
 	float: left;
 	width: 70%;
-	height: 2773px;
+	/* height: 2773px; */
 }
 
 .body_3 {
 	float: right;
 	width: 29%;
-	height: 2773px;
+	/* height: 2773px; */
 }
 .body_3_1{
 	width: 100%;

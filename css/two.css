@@ -355,8 +355,7 @@
 	position: absolute; */
 }
 .client{
-	width: 1200px;
-	height: 188px;
+	width: 100%;
 }
 .client1{
     margin: 0px 5px;
@@ -387,8 +386,9 @@
 	font-size: 9px;
 }
 .clienall{
-	width: 800px;
-	height: 150px;
+	width: 70%;
+	float: left;
+	/* height: 150px; */
 }
 .bule{
 	color: white;
